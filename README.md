@@ -19,7 +19,7 @@
 
 </td>
 <td width="30%" align="center" valign="middle">
-<img src="./assets/bunny.webp" width="190"/>
+<img src="./assets/bunny.webp" width="220"/>
 </td>
 </tr>
 </table>
