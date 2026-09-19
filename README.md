@@ -19,12 +19,12 @@
 
 </td>
 <td width="30%" align="center" valign="middle">
-<img src="./assets/bunny.webp" width="190"/>
+<img src="./assets/bunny.webp" width="300"/>
 </td>
 </tr>
 </table>
 
-<table width="100%">
+<table>
 <tr>
 <td width="70%" valign="middle">
 
@@ -42,15 +42,16 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/combined_animation.webp" width="220"/>
+<img src="./assets/shark.webp" width="220"/>
 
 <sub><em>Animation made by me for a videogame project</em></sub>
+
 
 </td>
 </tr>
 </table>
 
-<table width="100%">
+<table>
 <tr>
 <td width="40%" align="center" valign="middle">
 
@@ -73,7 +74,7 @@
 
 ## Main Languages & Tools
 
-<table width="100%" align="center">
+<table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -114,6 +115,7 @@
 </td>
 </tr>
 </table>
+
 </div>
 
 <table align="center">
