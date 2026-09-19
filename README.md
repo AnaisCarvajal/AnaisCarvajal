@@ -8,7 +8,7 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="70%" valign="middle">
 
@@ -19,7 +19,7 @@
 
 </td>
 <td width="30%" align="center" valign="middle">
-<img src="./assets/bunny.png" width="190"/>
+<img src="./assets/bunny.webp" width="190"/>
 </td>
 </tr>
 </table>
@@ -42,9 +42,9 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/combined_animation.webp" width="220"/>
+<img src="./assets/shark.webp" width="220"/>
 
-<sub>Animation made by me for a video game project</sub>
+<sub><em>Animation made by me for a videogame project</em></sub>
 
 
 </td>
@@ -121,10 +121,10 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/study.png" width="200"/>
+      <img src="./assets/ok.webp" width="200"/>
     </td>
     <td align="center" valign="middle">
-      <strong><em>If you want to know more about me, feel free to contact me!</em></strong>
+      <strong>If you want to know more about me, feel free to contact me!</strong>
       <br><br>
       <a href="https://www.linkedin.com/in/anais-carvajal/"><img src="./assets/icons/linkedin.png" width="30" height="30"/></a>
       <a href="https://www.instagram.com/anais.npm/"><img src="./assets/icons/instagram.png" width="30" height="30"/></a>
