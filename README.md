@@ -16,7 +16,6 @@
 🪼 I am 23 years old.<br>
 🪼 I am from Chile.<br>
 🪼 I'm a fifth-year Civil Engineering student specializing in Computing and Informatics.<br>
-🪼 I originally studied mechanics with the goal of building robots.<br>
 
 </td>
 <td width="30%" align="center" valign="middle">
